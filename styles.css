@@ -59,7 +59,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  gap: 130px;
+  gap: 80px;
   padding: 4rem 4rem 0 4rem;
   background-color: var(--primary);
   height: 720px;
@@ -68,7 +68,7 @@ body {
 .hero-content {
   width: 534px;
   height: 317px;
-  margin-top: 6.5rem;
+  margin-top: 5rem;
   color: white;
 }
 
@@ -121,7 +121,7 @@ body {
   width: 521.63px;
   height: 525px;
   object-fit: contain;
-  margin-top: 5.75rem;
+  margin-top: 4.75rem;
 }
 
 

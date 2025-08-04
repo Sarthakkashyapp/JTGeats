@@ -157,7 +157,7 @@ document.addEventListener("DOMContentLoaded", () => {
       price: "₹190",
       rating: "4.7",
       time: "assests/Kitchensection/time2.png",
-      offer: null,
+      offer: "assests/Kitchensection/offer2.png",
       plus: "assests/Kitchensection/plus-icon.png"
     },
     {
@@ -165,8 +165,8 @@ document.addEventListener("DOMContentLoaded", () => {
       title: "Chilli Chicken",
       price: "₹184",
       rating: "4.3",
-      time: "assests/Kitchensection/time.png",
-      offer: "assests/Kitchensection/offer2.png",
+      time: "assests/Kitchensection/time3.png",
+      offer: "assests/Kitchensection/offer.png",
       plus: "assests/Kitchensection/plus-icon.png"
     },
     {
@@ -175,7 +175,7 @@ document.addEventListener("DOMContentLoaded", () => {
       price: "₹116",
       rating: "4.1",
       time: "assests/Kitchensection/time.png",
-      offer: "assests/Kitchensection/offer.png",
+      offer: null,
       plus: "assests/Kitchensection/plus-icon.png"
     },
     {
@@ -184,7 +184,7 @@ document.addEventListener("DOMContentLoaded", () => {
       price: "₹150",
       rating: "4.5",
       time: "assests/Kitchensection/time.png",
-      offer: null,
+      offer: "assests/Kitchensection/offer.png",
       plus: "assests/Kitchensection/plus-icon.png"
     },
     {
@@ -193,7 +193,7 @@ document.addEventListener("DOMContentLoaded", () => {
       price: "₹190",
       rating: "4.7",
       time: "assests/Kitchensection/time.png",
-      offer: "assests/Kitchensection/offer2.png",
+      offer: null,
       plus: "assests/Kitchensection/plus-icon-2.png"
     }
   ];
