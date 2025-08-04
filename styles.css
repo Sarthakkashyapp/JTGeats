@@ -468,11 +468,11 @@ body {
 }
 
 .custom-prev {
-    left: 16rem;
+    left: 1rem;
 }
 
 .custom-next {
-    right: 16rem;
+    right: 1rem;
 }
 
 .prev-arrow-icon {
